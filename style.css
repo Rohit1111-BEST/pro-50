@@ -1,0 +1,8 @@
+* {border:solid}
+h1 {color:blue}
+
+h2 {color:orange}
+.header {background-color:aqua;
+display:flex;
+justify-content:space-betweem;
+}
